@@ -1,6 +1,6 @@
 
-# Portfolio-Template - https://vimall03.github.io/Portfolio-Template/
-It is designed using HTML and inline CSS. The combination of HTML and inline CSS in this template ensures that the portfolio will look great on any device and screen size. 
+# Portfolio-Template 
+It is designed using HTML and inline CSS. The combination of HTML and inline CSS in this template ensures that the portfolio will look great on any device and screen size. View template - https://vimall03.github.io/Portfolio-Template/
 ## Abstract:
 
 This document provides an overview of an HTML file that serves as a portfolio template. The template is designed to showcase personal or professional projects and skills. It includes sections for an about section, portfolio section, and a contact section. The template is fully responsive and compatible with various screen sizes and devices.
